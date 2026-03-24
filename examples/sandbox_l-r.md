@@ -388,6 +388,39 @@
     </tr>
 </table>
 
+#### NMstate Logos
+
+<table>
+    <tr>
+        <th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>stacked</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/nmstate/stacked/color/nmstate-stacked-color.png" width="95"></td>
+        <td><img src="/projects/nmstate/stacked/color/nmstate-stacked-color.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/nmstate/stacked/black/nmstate-stacked-black.png" width="95"></td>
+        <td><img src="/projects/nmstate/stacked/black/nmstate-stacked-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/nmstate/stacked/white/nmstate-stacked-white.png" width="95"></td>
+        <td><img src="/projects/nmstate/stacked/white/nmstate-stacked-white.svg" width="95"></td>
+    </tr>
+</table>
+
 #### OAuth2 Proxy Logos
 
 <table>
